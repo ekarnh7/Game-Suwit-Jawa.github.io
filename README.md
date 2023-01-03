@@ -2,5 +2,6 @@
 
 ### SS Game
 
-![logo](Swit Jawa.PNG)
+![image.png]( {Swit Jawa.PNG} )
+
 
